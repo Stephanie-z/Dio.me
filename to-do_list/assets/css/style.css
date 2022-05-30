@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;600&display=swap");
+
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #6B7280;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #374151;
+    max-width: 700px;
+    width: 100%;
+    min-height: 700px;
+    border-radius: 5%;
+    margin-bottom: 30px;
+}
+
+.container h1{
+    font-size: 56px;
+    color: #111827;
+    margin-bottom: 40px;
+}
+
+button {
+    border: 1px solid #111827;
+    border-radius: 5px;
+    background-color:   #111827;;
+    color: #eee;
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #111827;
+    background-color: #eee;
+    width: 300px;
+    color: #111827;
+}
+
+#tasks {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    margin-bottom: 10px;
+    color: #eee;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: grey;
+}
