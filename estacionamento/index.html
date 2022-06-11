@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Estacionamento</title>
+    <style>
+        .container{
+            margin: 30px;
+        }
+    
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <input type="text" id="name" placeholder="Digite o nome do veículo" autocomplete="off" />
+      <input type="text" id="licence" placeholder="Digite a placa do veículo" autocomplete="off" />
+      <button id="send" class="success">Registrar</button>
+      <table>
+        <thead>
+          <tr>
+            <th class="th">Veículo </th>
+            <th class="th">Placa </th>
+            <th class="th">Entrada </th>
+            <th class="th">Ações</th>
+          </tr>
+        </thead>
+        <tbody id="garage" class="tbody"></tbody>
+      </table>
+    </div>
+  </body>
+
+  <script src="./src/main.js"></script>
+</html>
