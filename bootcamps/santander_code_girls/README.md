@@ -1,2 +1,0 @@
-# Santander Code Girls
-
