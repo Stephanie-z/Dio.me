@@ -1,0 +1,15 @@
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.csproj.AssemblyReference.cache
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.GeneratedMSBuildEditorConfig.editorconfig
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.AssemblyInfoInputs.cache
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.AssemblyInfo.cs
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.csproj.CoreCompileInputs.cache
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/bin/Debug/net6.0/DotNet
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/bin/Debug/net6.0/DotNet.deps.json
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/bin/Debug/net6.0/DotNet.runtimeconfig.json
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/bin/Debug/net6.0/DotNet.dll
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/bin/Debug/net6.0/DotNet.pdb
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.dll
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/refint/DotNet.dll
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.pdb
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/DotNet.genruntimeconfig.cache
+/home/bessemer/workspace/Dio.me/bootcamps/DotNet/obj/Debug/net6.0/ref/DotNet.dll
