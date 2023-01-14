@@ -1,0 +1,15 @@
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/bin/Debug/net6.0/DesafioProjetoHospedagem
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/bin/Debug/net6.0/DesafioProjetoHospedagem.deps.json
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/bin/Debug/net6.0/DesafioProjetoHospedagem.runtimeconfig.json
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/bin/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/bin/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.AssemblyReference.cache
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.AssemblyInfo.cs
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.dll
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/refint/DesafioProjetoHospedagem.dll
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.pdb
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/DesafioProjetoHospedagem.genruntimeconfig.cache
+/home/bess/Dio.me/bootcamps/DotNet/projeto-sistema-hospedagem/obj/Debug/net6.0/ref/DesafioProjetoHospedagem.dll
