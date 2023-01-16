@@ -1,0 +1,15 @@
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.csproj.AssemblyReference.cache
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.AssemblyInfoInputs.cache
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.AssemblyInfo.cs
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/bin/Debug/net6.0/ExemploPOO
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/bin/Debug/net6.0/ExemploPOO.deps.json
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/bin/Debug/net6.0/ExemploPOO.runtimeconfig.json
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/bin/Debug/net6.0/ExemploPOO.dll
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/bin/Debug/net6.0/ExemploPOO.pdb
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.dll
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/refint/ExemploPOO.dll
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.pdb
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ExemploPOO.genruntimeconfig.cache
+/home/bess/Dio.me/bootcamps/DotNet/ExemploPOO/obj/Debug/net6.0/ref/ExemploPOO.dll
